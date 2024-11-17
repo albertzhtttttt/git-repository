@@ -1,1 +1,1 @@
-"D:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Mallard\Desktop\大三上作业\软件工程\实验3\git-repository\code -B C:\Users\Mallard\Desktop\大三上作业\软件工程\实验3\git-repository\code\cmake-build-debug
+CMakeLists.txt not found in C:\Users\Mallard\Desktop\大三上作业\软件工程\实验3\git-repository\code Select CMakeLists.txt
